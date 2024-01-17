@@ -1,10 +1,10 @@
-package com.example.demo;
+package com.azure.demo.springazuredemo101;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoApplicationTests {
+class SpringAzureDemo101ApplicationTests {
 
 	@Test
 	void contextLoads() {
